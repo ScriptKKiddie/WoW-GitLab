@@ -14,6 +14,14 @@ Topic | Description
 --- | ---
 
 ## References
+- https://docs.gitlab.com/ee/development/cicd/templates.html
+- https://docs.gitlab.com/ee/ci/yaml/includes.html
+- https://about.gitlab.com/blog/2020/09/23/get-started-ci-pipeline-templates/
+- https://docs.gitlab.com/ee/ci/yaml/index.html#includetemplate
+- https://docs.gitlab.com/ee/development/shell_commands.html
+- https://docs.gitlab.com/ee/ci/variables/
+- https://docs.gitlab.com/ee/development/cicd/templates.html
+- https://docs.gitlab.com/ee/ci/examples/
 
 ## Author(s)
 
